@@ -1,0 +1,28 @@
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\bin\Debug\net8.0\Tic Tac Toe .Net.exe
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\bin\Debug\net8.0\Tic Tac Toe .Net.deps.json
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\bin\Debug\net8.0\Tic Tac Toe .Net.runtimeconfig.json
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\bin\Debug\net8.0\Tic Tac Toe .Net.dll
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\bin\Debug\net8.0\Tic Tac Toe .Net.pdb
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.AssemblyInfoInputs.cache
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.AssemblyInfo.cs
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.csproj.CoreCompileInputs.cache
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.dll
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\refint\Tic Tac Toe .Net.dll
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.pdb
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\Tic Tac Toe .Net.genruntimeconfig.cache
+D:\Datos\GoogleDrive\Universidad\Semestre 7\Tic Tac Toe .Net\obj\Debug\net8.0\ref\Tic Tac Toe .Net.dll
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\bin\Debug\net8.0\Tic Tac Toe .Net.exe
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\bin\Debug\net8.0\Tic Tac Toe .Net.deps.json
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\bin\Debug\net8.0\Tic Tac Toe .Net.runtimeconfig.json
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\bin\Debug\net8.0\Tic Tac Toe .Net.dll
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\bin\Debug\net8.0\Tic Tac Toe .Net.pdb
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.AssemblyInfoInputs.cache
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.AssemblyInfo.cs
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.dll
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\refint\Tic Tac Toe .Net.dll
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.pdb
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\Tic Tac Toe .Net.genruntimeconfig.cache
+D:\Datos\Documents\GitHub\TICTACTOE_.NET\obj\Debug\net8.0\ref\Tic Tac Toe .Net.dll
