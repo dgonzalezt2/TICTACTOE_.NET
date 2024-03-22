@@ -1,4 +1,7 @@
 # TicTacToe with C#
+
+This repository contains the implementation of the classic Tic Tac Toe (Three in a row) game in C# using the .NET framework. The game is designed to be executed in the terminal console, providing a simple yet enjoyable experience for two players.
+
 Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 
 # TOOLS
